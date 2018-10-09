@@ -27,6 +27,18 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
       </li>
     </ul>
   </li>
+  <li> <i class="fas fa-thumbtack"></i>
+  Wykresy
+    <ul class="fa-ul">
+      <li> <i class="far fa-file-excel"></i>
+          <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/wykres_dekompozycja_PKB.xlsx' | prepend: site.baseurl | prepend: site.url }}"> Dekompozycja PKB </a>
+      </li>
+      <li> <i class="far fa-file-excel"></i>
+            <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/wagi_HICP.xls' | prepend: site.baseurl | prepend: site.url }}"> Wagi HICP </a>
+      </li>
+    </ul>
+
+  </li>
 
 </ul>
 
