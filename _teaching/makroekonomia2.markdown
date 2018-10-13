@@ -16,6 +16,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
   <li> <i class="fas fa-thumbtack"></i> Linki:
     <ul class="fa-ul">
