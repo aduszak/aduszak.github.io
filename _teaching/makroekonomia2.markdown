@@ -52,6 +52,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
 </ul>
 
 <h4> 3. Wzrost gospodarczy (<i>31 października i 7 listopada 2018 r.</i>) </h4>
