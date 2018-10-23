@@ -1,0 +1,22 @@
+<div class="news_teaching">
+  <h3>informacje</h3>
+  {% if site.info_makro2   %}
+    <table>
+    {% assign news = site.info_makro2 | reverse %}
+    {% for item in news limit: site.info_makro2_limit %}
+      <tr>
+        <td class="date">{{ item.date | date: "%-d.%m.%Y" }}</td>
+        <td class="announcement">
+          {% if item.inline %}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </table>
+  {% else %}
+    <p>Na razie brak nowych informacji...</p>
+  {% endif %}
+</div>

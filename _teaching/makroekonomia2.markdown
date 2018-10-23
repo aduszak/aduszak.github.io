@@ -1,14 +1,21 @@
 ---
-layout: page
+layout: page_teaching
 title: Makroekonomia II
 description: semestr zimowy 2018/2019, studia licencjackie
 img: /assets/img/business_cycle.png
+info_makro2: true
 # redirect:
 ---
 
 Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.waw.pl/~mbrzez/">prof. Michał Brzoza-Brzezina</a>
 
 ## ćwiczenia
+
+{% if page.info_makro2 %}
+  {% include info_makro2.html %}
+{% endif %}
+
+  <h3>materiały</h3>
 
 <h4> 1. Wprowadzenie i rachunki ekonomiczne (<i>3 i 10 października 2018 r.</i>) </h4>
 
@@ -44,6 +51,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
   <li> <i class="fas fa-thumbtack"></i>
       <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/rachunki_ekonomiczne.pdf' | prepend: site.baseurl | prepend: site.url }}"> Materiał pomocniczy</a>
   </li>
+
 </ul>
 
 <h4> 2. Wzrost gospodarczy (<i>17 i 24 października 2018 r.</i>) </h4>

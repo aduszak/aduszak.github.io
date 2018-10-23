@@ -66,7 +66,15 @@ collections:
     output: true
     permalink: /teaching/:path/
 
+  info_makro2:
+    defaults:
+      layout: post
+    output: true
+    permalink: /teaching/makroekonomia2/:path/
+
 news_limit: 7
+info_makro2_limit: 7
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
