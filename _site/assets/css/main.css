@@ -404,6 +404,14 @@ footer a:hover { color: #2E8B57; }
 .news table tr { text-align: left; }
 .news table td { padding: 6px 0; vertical-align: top; border: none; }
 
+.news_teaching { border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; margin-top: 0px; padding-top: 0px; padding-bottom: 30px; }
+.news_teaching h2 { font-weight: bold; margin-top: 0; margin-bottom: 10px; }
+.news_teaching table { border-collapse: collapse; width: 100%; }
+.news_teaching table .date { width: 19%; }
+.news_teaching table .announcement { width: 81%; }
+.news_teaching table tr { text-align: left; }
+.news_teaching table td { padding: 6px 0; vertical-align: top; border: none; }
+
 .social { border-top: 1px solid #e8e8e8; margin-top: 50px; padding-top: 20px; }
 
 .pagination { font-size: 1rem; font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif; font-weight: 300; text-align: center; }
