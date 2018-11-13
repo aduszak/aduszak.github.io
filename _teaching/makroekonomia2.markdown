@@ -69,6 +69,13 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
 <h4> 4. Rynek pracy (<i>14 i 21 listopada 2018 r.</i>) </h4>
 
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw4.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
+</ul>
+
 <h4> 5. Polityka fiskalna (<i>28 listopada i 5 grudnia 2018 r.</i>) </h4>
 
 <h4> 6. Polityka pieniężna (<i>12 i 19 grudnia 2018 r.</i>) </h4>
