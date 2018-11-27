@@ -77,7 +77,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
   </li>
 </ul>
 
-<h4> 5. Polityka fiskalna (<i>28 listopada i 5 grudnia 2018 r.</i>) </h4>
+<h4> 5. Kurs równowagi, popyt sektora prywatnego, polityka fiskalna (<i>28 listopada i 5 grudnia 2018 r.</i>) </h4>
 
 <ul class="fa-ul">
 
