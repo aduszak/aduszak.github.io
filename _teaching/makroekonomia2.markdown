@@ -73,10 +73,18 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw4.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw4_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
 </ul>
 
 <h4> 5. Polityka fiskalna (<i>28 listopada i 5 grudnia 2018 r.</i>) </h4>
+
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
+</ul>
 
 <h4> 6. Polityka pieniężna (<i>12 i 19 grudnia 2018 r.</i>) </h4>
 
