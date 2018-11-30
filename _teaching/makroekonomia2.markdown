@@ -85,7 +85,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
   </li>
 </ul>
-##### (18.11.2018) Drobne uaktualnienie zadań:
+##### (28.11.2018) Drobne uaktualnienie zadań:
 ##### **Zad. 1.** $$NX = -0,4Y_P + 0,2 Y_N + 10 \epsilon$$ (wcześniej było: $$NX = -0,4Y_P+0,2 Y_N -10 \epsilon$$)  
 ##### **Zad. 3.** $$Y^* = 10000$$ (wcześniej było: $$Y^* = 1000$$)
 
