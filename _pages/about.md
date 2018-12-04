@@ -22,3 +22,7 @@ Welcome to my website!
 I work at <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl/homen.aspx?f=/srodeken.htm">Narodowy Bank Polski</a> and I am a PhD candidate at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en">SGH Warsaw School of Economics</a>.
 
 My main research interests include macroeconomics, in particular monetary economics, business cycles and housing markets.
+
+<br />
+
+###### *All views expressed on this website are my own and do not necessarily reflect the views of any entity with which I have been or am now affiliated.*
