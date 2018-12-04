@@ -85,10 +85,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
   </li>
 </ul>
-##### (28.11.2018 i 4.12.2018) Drobne uaktualnienie zadań:
-##### **Zad. 1.** $$NX = 0,4Y_P - 0,2 Y_N + 10 \epsilon$$ -- gdy następuje deprecjacja realnego kursu walutowego (złotego względem euro, $$\epsilon$$ <i class="fas fa-arrow-up"></i>), to eksport Polski staje się bardziej konkurencyjny ($$NX$$ <i class="fas fa-arrow-up"></i>)  
-##### (wcześniej było: $$NX = -0,4Y_P+0,2 Y_N -10 \epsilon$$)  
-##### **Zad. 3.** $$Y^* = 10000$$ (wcześniej było: $$Y^* = 1000$$)
+##### (28.11.2018 i 4.12.2018) Drobne uaktualnienie zadań
 
 <h4> 6. Polityka pieniężna (<i>12 i 19 grudnia 2018 r.</i>) </h4>
 
