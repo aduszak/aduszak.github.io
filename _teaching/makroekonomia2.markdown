@@ -1,7 +1,7 @@
 ---
 layout: page_teaching
 title: Makroekonomia II
-description: semestr zimowy 2018/2019, studia licencjackie
+description: semestr zimowy 2018/2019, studia licencjackie stacjonarne
 img: /assets/img/business_cycle.png
 info_makro2: true
 # redirect:
@@ -83,6 +83,7 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
 </ul>
 ##### (28.11.2018 i 4.12.2018) Drobne uaktualnienie zadań:
