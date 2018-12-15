@@ -10,7 +10,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
 ## ćwiczenia
 
-<h4> 1. Rachunki ekonomiczne, wzrost gospodarczy (<i>1 grudnia 2018 r.</i>) </h4>
+<h4> 2. Rachunki ekonomiczne, wzrost gospodarczy (<i>1 grudnia 2018 r.</i>) </h4>
 
 <ul class="fa-ul">
 
