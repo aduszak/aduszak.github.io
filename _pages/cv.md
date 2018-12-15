@@ -24,11 +24,11 @@ social: false
 <ul class="fa-ul">
 
   <li>
-    <i class="fas fa-briefcase"></i> <b>Junior Economist</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl/homen.aspx?f=/srodeken.htm">Narodowy Bank Polski</a>
+    <i class="fas fa-briefcase"></i> <b>Junior Economist</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">Narodowy Bank Polski</a>
   </li>
 
   <li>
-    <i class="fas fa-university"></i> <b>PhD Candidate</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en">SGH Warsaw School of Economics</a>
+    <i class="fas fa-university"></i> <b>PhD Candidate</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>
   </li>
 
 </ul>
@@ -39,13 +39,13 @@ social: false
 
   <li>
     <i class="fas fa-graduation-cap"></i> <b>PhD</b> in <b>Economics</b>, 2021 (expected) <br/>
-    <a target="_blank" rel="noopener noreferrer" href="http://kolegia.sgh.waw.pl/en/KAE/Pages/default.aspx">Collegium of Economic Analysis</a>,
-    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en">SGH Warsaw School of Economics</a>
+    <a target="_blank" rel="noopener noreferrer" href="http://kolegia.sgh.waw.pl/pl/KAE/Strony/default.aspx">Collegium of Economic Analysis</a>,
+    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>
   </li>
 
   <li>
     <i class="fas fa-graduation-cap"></i> <b>MA</b> in <a target="_blank" rel="noopener noreferrer" href="http://kolegia.sgh.waw.pl/pl/KAE/struktura/KEI/oferta/Strony/qem.aspx"><b>Models and Methods of Quantitative Economics</b></a>, 2017 <br/>
-    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en">SGH Warsaw School of Economics</a>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>
 
   </li>
 
