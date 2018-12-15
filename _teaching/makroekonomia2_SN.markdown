@@ -29,3 +29,9 @@ Wykładowca: prof. Małgorzata Pawłowska
   </li>
 
 </ul>
+
+<h4> 1. Rynek pracy, kurs równowagi, popyt sektora prywatnego, polityka fiskalna (<i>15 grudnia 2018 r.</i>) </h4>
+<ul class="fa-ul">
+  <li> <i class="fas fa-thumbtack"></i> <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2_SN/makroII_cw2.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
+  </li>
+</ul>
