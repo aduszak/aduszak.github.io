@@ -10,7 +10,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
 ## ćwiczenia
 
-<h4> 2. Rachunki ekonomiczne, wzrost gospodarczy (<i>1 grudnia 2018 r.</i>) </h4>
+<h4> 1. Rachunki ekonomiczne, wzrost gospodarczy (<i>1 grudnia 2018 r.</i>) </h4>
 
 <ul class="fa-ul">
 
@@ -30,7 +30,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
 </ul>
 
-<h4> 1. Rynek pracy, kurs równowagi, popyt sektora prywatnego, polityka fiskalna (<i>15 grudnia 2018 r.</i>) </h4>
+<h4> 2. Rynek pracy, kurs równowagi, popyt sektora prywatnego, polityka fiskalna (<i>15 grudnia 2018 r.</i>) </h4>
 <ul class="fa-ul">
   <li> <i class="fas fa-thumbtack"></i> <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2_SN/makroII_cw2.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
   </li>
