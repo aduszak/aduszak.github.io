@@ -72,6 +72,12 @@ collections:
     output: true
     permalink: /teaching/makroekonomia2/:path/
 
+  info_makro2_SN:
+    defaults:
+      layout: post
+    output: true
+    permalink: /teaching/makroekonomia2_SN/:path/
+
 news_limit: 7
 info_makro2_limit: 7
 

@@ -3,12 +3,16 @@ layout: page_teaching
 title: Makroekonomia II
 description: semestr zimowy 2018/2019, studia licencjackie sob-niedz
 img: /assets/img/9.jpg
+info_makro2_SN: true
 # redirect:
 ---
 
 Wykładowca: prof. Małgorzata Pawłowska
 
 ## ćwiczenia
+{% if page.info_makro2_SN %}
+  {% include info_makro2_SN.html %}
+{% endif %}
 
 <h4> 1. Rachunki ekonomiczne, wzrost gospodarczy (<i>1 grudnia 2018 r.</i>) </h4>
 
