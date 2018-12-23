@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I teach at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en" title="SGH">SGH Warsaw School of Economics</a>.
+description: Materials for courses I teach at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl" title="SGH">SGH Warsaw School of Economics</a>.
 ---
 
 #### **Winter semester 2018/2019**
