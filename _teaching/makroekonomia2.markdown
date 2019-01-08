@@ -109,4 +109,8 @@ Wykładowca: <a target="_blank" rel="noopener noreferrer" href="http://web.sgh.w
 
 <h4> 7. Gospodarka otwarta (<i>9 i 16 stycznia 2019 r.</i>) </h4>
 
+<li> <i class="fas fa-thumbtack"></i>
+  <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw7.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+</li>
+
 <!-- <h4> 8. (<i>23 stycznia 2019 r.</i>) </h4> -->
