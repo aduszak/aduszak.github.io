@@ -78,8 +78,8 @@ collections:
     output: true
     permalink: /teaching/makroekonomia2_SN/:path/
 
-news_limit: 7
-info_makro2_limit: 7
+news_limit: 10
+info_makro2_limit: 10
 
 
 # -----------------------------------------------------------------------------
