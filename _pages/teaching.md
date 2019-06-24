@@ -5,8 +5,7 @@ title: teaching
 description: Materials for courses I teach at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl" title="SGH">SGH Warsaw School of Economics</a>.
 ---
 
-#### **Winter semester 2018/2019**
-
+<!--
 {% for project in site.teaching %}
 
 {% if project.redirect %}
@@ -53,8 +52,13 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 <br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-#### **Summer semester 2017/2018**
+-->
+
+#### **winter semester 2018/2019**
+<i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, full-time studies (in Polish)    
+<i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, part-time studies (in Polish)
 
 
-  <i class="fas fa-book"></i>
-  Microeconomics II, BA, lecturer: Marek Dietl, PhD
+#### **summer semester 2017/2018**
+
+<i class="fas fa-book"></i> Microeconomics II (tutorials), BA, full-time studies (in English)
