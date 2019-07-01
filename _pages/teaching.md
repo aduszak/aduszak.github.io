@@ -55,10 +55,19 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 -->
 
 #### **winter semester 2018/2019**
-<i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, full-time studies (in Polish)    
-<i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, part-time studies (in Polish)
-
+<ul class="fa-ul">
+<li>
+  <i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, full-time studies (in Polish)     
+</li>  
+<li>
+  <i class="fas fa-book"></i> Macroeconomics II (tutorials), BA, part-time studies (in Polish)
+</li>
+</ul>
 
 #### **summer semester 2017/2018**
 
+<ul class="fa-ul">
+<li>
 <i class="fas fa-book"></i> Microeconomics II (tutorials), BA, full-time studies (in English)
+</li>
+</ul>
