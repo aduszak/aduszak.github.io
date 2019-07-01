@@ -21,7 +21,7 @@ Welcome to my website!
 
 I work at <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">Narodowy Bank Polski</a> and I am a PhD candidate at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>.
 
-My main research interests include macroeconomics, in particular monetary economics, business cycles and housing markets.
+My main research interests include macroeconomics, in particular monetary economics, business cycles, housing markets and computational economics.
 
 <br />
 
