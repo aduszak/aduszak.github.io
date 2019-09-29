@@ -2,7 +2,7 @@
 layout: page_teaching
 title: Makroekonomia II
 description: semestr zimowy 2019/2020, studia licencjackie stacjonarne
-img: /assets/img/business_cycle.png
+img: /assets/img/9.jpg
 info_makro2: true
 # redirect:
 ---
