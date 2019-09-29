@@ -5,7 +5,7 @@ title: teaching
 description: Materials for courses I teach at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl" title="SGH">SGH Warsaw School of Economics</a>.
 ---
 
-<!--
+
 {% for project in site.teaching %}
 
 {% if project.redirect %}
@@ -52,7 +52,7 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 <br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
--->
+
 
 #### **winter semester 2018/2019**
 <ul class="fa-ul">
