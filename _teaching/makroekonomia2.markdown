@@ -21,6 +21,37 @@ Wykładowca: prof. Małgorzata Pawłowska
   <h3>materiały</h3>
 
 <h4> 1. Wprowadzenie i rachunki ekonomiczne  </h4>
+
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
+  </li>
+  <li> <i class="fas fa-thumbtack"></i> Linki:
+    <ul class="fa-ul">
+      <li> <i class="fas fa-angle-right"></i>
+        <a target="_blank" rel="noopener noreferrer" href="https://stat.gov.pl">GUS</a>
+      </li>
+      <li> <i class="fas fa-angle-right"></i>
+        <a target="_blank" rel="noopener noreferrer" href="https://ec.europa.eu/eurostat">Eurostat</a>
+      </li>
+    </ul>
+  </li>
+  <li> <i class="fas fa-thumbtack"></i>
+  Wykresy
+    <ul class="fa-ul">
+      <li> <i class="far fa-file-excel"></i>
+          <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/wykres_dekompozycja_PKB.xlsx' | prepend: site.baseurl | prepend: site.url }}"> Dekompozycja PKB </a>
+      </li>
+      <li> <i class="far fa-file-excel"></i>
+            <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/wagi_HICP.xls' | prepend: site.baseurl | prepend: site.url }}"> Wagi HICP </a>
+      </li>
+    </ul>
+
+  </li>
+
+</ul>
+
 <h4> 2. Wzrost gospodarczy  </h4>
 <h4> 3. Wzrost gospodarczy </h4>
 <h4> 4. Rynek pracy </h4>
