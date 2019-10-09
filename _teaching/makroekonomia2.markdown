@@ -50,6 +50,10 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   </li>
 
+  <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/rachunki_ekonomiczne.pdf' | prepend: site.baseurl | prepend: site.url }}"> Materiał pomocniczy</a>
+  </li>
+
 </ul>
 
 <h4> 2. Wzrost gospodarczy  </h4>
