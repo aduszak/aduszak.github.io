@@ -57,8 +57,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
 </ul>
 
-<h4> 2. Wzrost gospodarczy  </h4>
-<h4> 3. Wzrost gospodarczy </h4>
+<h4> 2. i 3. Wzrost gospodarczy  </h4>
 
 <ul class="fa-ul">
 
