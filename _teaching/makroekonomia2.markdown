@@ -77,6 +77,14 @@ Wykładowca: prof. Małgorzata Pawłowska
 </ul>
 
 <h4> 5. Kurs równowagi, popyt sektora prywatnego, polityka fiskalna  </h4>
+
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
+</ul>
+
 <h4> 6. Polityka pieniężna </h4>
 <h4> 7. Gospodarka otwarta  </h4>
 
