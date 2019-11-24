@@ -63,6 +63,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
 </ul>
 
