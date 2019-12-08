@@ -74,6 +74,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw4.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw4_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
 </ul>
 
@@ -83,10 +84,25 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
 </ul>
 
 <h4> 6. Polityka pieniężna </h4>
+
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw6.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+
+  </li>
+
+<li> <i class="far fa-file-excel"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/cw06_symulacja.xlsx' | prepend: site.baseurl | prepend: site.url }}"> Symulacja </a>
+</li>
+</ul>
+
+
 <h4> 7. Gospodarka otwarta  </h4>
 
 
