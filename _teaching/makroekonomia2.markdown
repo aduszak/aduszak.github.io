@@ -20,6 +20,8 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <h3>materiały</h3>
 
+
+
 <h4> 1. Wprowadzenie i rachunki ekonomiczne  </h4>
 
 <ul class="fa-ul">
@@ -111,6 +113,21 @@ i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw7.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
   </li>
 </ul>
+
+Szczegółowe rozwiązania niektórych zadań (autor dr M. Czaplicki)
+
+  <ul class="fa-ul">
+
+    <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/Zadanie_1_rynek_pracy.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Rynek pracy</a>
+    </li>
+    <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/Zadanie_4_konsument.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Konsument</a>
+    </li>
+    <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/Zadanie_4_Solow.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Solow</a>
+    </li>
+  </ul>
 
 
 
