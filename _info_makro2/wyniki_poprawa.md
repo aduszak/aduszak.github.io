@@ -5,4 +5,4 @@ inline: true
 title:
 ---
 
-<a target="_blank" rel="noopener noreferrer" href="wyniki_kol_popr.pdf"> Wyniki poprawy kolokwium</a>
+<a target="_blank" rel="noopener noreferrer" href="wyniki_kol_popr.pdf"> Wyniki poprawy kolokwium (grupy AD)</a>
