@@ -51,7 +51,7 @@ social: false
 
   <li>
     <i class="fas fa-graduation-cap"></i> <b>BA</b> in <b>Finance and Accounting</b>, 2015 <br/>
-    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl/en">SGH Warsaw School of Economics</a>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>
 
   </li>
 
