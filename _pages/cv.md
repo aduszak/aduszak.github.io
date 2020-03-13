@@ -24,7 +24,7 @@ social: false
 <ul class="fa-ul">
 
   <li>
-    <i class="fas fa-briefcase"></i> <b>Junior Economist</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">Narodowy Bank Polski</a>
+    <i class="fas fa-briefcase"></i> <b>Economist</b>, <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">Narodowy Bank Polski</a>
   </li>
 
   <li>
