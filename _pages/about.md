@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Anna</strong> Duszak
-description: <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">NBP</a> and <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH</a>
+description:  #<a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH</a>
 
 
 profile:
@@ -19,7 +19,7 @@ social: true
 
 Welcome to my website!
 
-I work at <a target="_blank" rel="noopener noreferrer" href="http://www.nbp.pl">Narodowy Bank Polski</a> and I am a PhD candidate at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl">SGH Warsaw School of Economics</a>.
+I am an Assistant at the <a target="_blank" rel="noopener noreferrer" href="https://ssl-kolegia.sgh.waw.pl/pl/KGS/struktura/keb/Strony/default.aspx">Department of Business Economics</a>, SGH Warsaw School of Economics.
 
 My main research interests include macroeconomics, in particular monetary economics, business cycles, housing markets and computational economics.
 

@@ -53,7 +53,7 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
--->
+
 
 #### **winter semester 2018/2019**
 <ul class="fa-ul">
@@ -80,3 +80,4 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 <i class="fas fa-book"></i> Microeconomics II (tutorials), BA, full-time studies (in English)
 </li>
 </ul>
+-->
