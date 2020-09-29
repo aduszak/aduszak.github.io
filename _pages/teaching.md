@@ -5,6 +5,21 @@ title: teaching
 description: Materials for courses I teach at the <a target="_blank" rel="noopener noreferrer" href="http://www.sgh.waw.pl" title="SGH">SGH Warsaw School of Economics</a>.
 ---
 
+
+
+<ul class="fa-ul">
+
+<li>
+  <i class="fas fa-book"></i> <a rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/' | prepend: site.baseurl | prepend: site.url }}">Makroekonomia II</a>, studia licencjackie popołudniowe
+</li>
+
+<li>
+  <i class="fas fa-book"></i> <a rel="noopener noreferrer" href="{{ '/teaching/microeconomics1/' | prepend: site.baseurl | prepend: site.url }}">Microeconomics I</a>, undergraduates
+</li>
+
+</ul>
+
+
 <!--
 {% for project in site.teaching %}
 
