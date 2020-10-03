@@ -14,6 +14,10 @@ description: Materials for courses I teach at the <a target="_blank" rel="noopen
 </li>
 
 <li>
+  <i class="fas fa-book"></i> <a rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2-niest/' | prepend: site.baseurl | prepend: site.url }}">Makroekonomia II</a>, studia licencjackie sobotnio-niedzielne
+</li>
+
+<li>
   <i class="fas fa-book"></i> <a rel="noopener noreferrer" href="{{ '/teaching/microeconomics1/' | prepend: site.baseurl | prepend: site.url }}">Microeconomics I</a>, undergraduates
 </li>
 
