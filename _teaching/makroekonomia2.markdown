@@ -23,6 +23,7 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
+    i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
 
   </li>
   <li> <i class="fas fa-thumbtack"></i> Linki:
@@ -36,5 +37,19 @@ Wykładowca: prof. Małgorzata Pawłowska
     </ul>
   </li>
 
+  <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/rachunki_ekon.pdf' | prepend: site.baseurl | prepend: site.url }}"> Materiał pomocniczy</a>
+  </li>
 
+
+</ul>
+
+
+<h4> 2. Wzrost gospodarczy </h4>
+
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
 </ul>
