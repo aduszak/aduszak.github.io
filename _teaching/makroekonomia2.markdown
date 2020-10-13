@@ -24,8 +24,8 @@ Wykładowca: prof. Małgorzata Pawłowska
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1.pdf' | prepend: site.baseurl | prepend: site.url }}"> Zadania</a>
     i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw1_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
-
   </li>
+
   <li> <i class="fas fa-thumbtack"></i> Linki:
     <ul class="fa-ul">
       <li> <i class="fas fa-angle-right"></i>
@@ -39,6 +39,10 @@ Wykładowca: prof. Małgorzata Pawłowska
 
   <li> <i class="fas fa-thumbtack"></i>
       <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/rachunki_ekon.pdf' | prepend: site.baseurl | prepend: site.url }}"> Materiał pomocniczy</a>
+  </li>
+
+  <li> <i class="fas fa-thumbtack"></i>
+  <a target="_blank" rel="noopener noreferrer" href="https://create.kahoot.it/v2/share/makroekonomia-podstawowe-pojecia/847d2e90-7a3b-4941-97f2-9484831d5e00">Kahoot</a>
   </li>
 
 
