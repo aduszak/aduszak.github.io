@@ -76,3 +76,11 @@ Wykładowca: prof. Małgorzata Pawłowska
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
   </li>
 </ul>
+
+<h4> 5. Gospodarka otwarta </h4>
+<ul class="fa-ul">
+
+  <li> <i class="fas fa-thumbtack"></i>
+    <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw6.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
+  </li>
+</ul>
