@@ -57,6 +57,10 @@ Wykładowca: prof. Małgorzata Pawłowska
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
     i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw2_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
   </li>
+
+  <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/solow.pdf' | prepend: site.baseurl | prepend: site.url }}"> Materiał pomocniczy</a>
+  </li>
 </ul>
 
 
@@ -76,6 +80,9 @@ Wykładowca: prof. Małgorzata Pawłowska
   <li> <i class="fas fa-thumbtack"></i>
     <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5.pdf' | prepend: site.baseurl | prepend:     site.url }}"> Zadania</a>
     i <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/makroII_cw5_odp.pdf' | prepend: site.baseurl | prepend: site.url }}"> rozwiązania</a>
+  </li>
+  <li> <i class="fas fa-thumbtack"></i>
+      <a target="_blank" rel="noopener noreferrer" href="{{ '/teaching/makroekonomia2/japans_phillips_curve.pdf' | prepend: site.baseurl | prepend: site.url }}"> Artykuł</a>
   </li>
 </ul>
 
